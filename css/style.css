@@ -1,0 +1,114 @@
+* {		
+    margin: 0; 
+    padding: 0; 
+    border:0; 
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: Arial, Helvetica,Verdana, Times New Roman, sans-serif; 
+    font-size:100%;
+    }
+
+.ol {
+    list-style-type: none;
+    
+   }
+.ul {
+    list-style-type: none;
+   
+   }
+html{
+    font-size: 100%;    
+}
+   
+.header__menu__cabra {
+    background-color: black;
+    }
+
+
+body {
+    width: 100%;
+    height: 100%;
+  }
+
+.boton__contacto {
+    background-color: #5C5958;
+    color: white;
+    padding: 4px 8px;
+    text-decoration: none;
+    border-radius: 5px;
+    /* display:inline block ; */
+    }
+
+.logo__header{    
+    width:50%;
+    height:100%;
+    background-color: black;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;    
+    background-size: cover;
+    float: left;
+    }
+
+.fondo__footer{
+    width:100%;
+    height:100%;
+    background-color: black;
+    background-size: contain;    
+    object-fit: fill;
+
+}
+
+    
+.boton__buscar {
+    background-color: #5C5958;
+    color: white;
+    padding: 4px 8px;
+    text-decoration: none;
+    border-radius: 5px;      
+    }
+
+.boton__sucursales {
+    background-color: #5C5958;
+    color: white;
+    padding: 4px 8px;
+    text-decoration: none;
+    border-radius: 5px;
+    }
+
+.boton__menu {
+    background-color: #5C5958;
+    color: white;
+    padding: 4px 8px;
+    text-decoration: none;
+    border-radius: 5px;
+    }
+
+.boton__nosotros {
+    /* font-family: times; */
+    background-color: #5C5958;
+    color: white;
+    padding: 4px 8px;
+    text-decoration: none;
+    border-radius: 5px;
+    }
+
+.boton__home {
+    font-family: 'Trebuchet MS';
+    background-color: #5C5958;
+    color: white;
+    padding: 4px 8px;
+    text-decoration: none;
+    border-radius: 5px;
+    }
+        
+        /* profundizar si es necesaria o no esta clase */
+.menu__alineado {
+    float: left;
+    list-style-type: none;
+}
+
+.parrafo__nosotros {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: roboto;
+}
